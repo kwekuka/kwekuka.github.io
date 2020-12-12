@@ -4,6 +4,7 @@ html, body {
     margin: 0;
     height: 100%;
     background: #d9e4dd; 
+    font-family: sans-serif;  
 
    
 }
@@ -24,12 +25,6 @@ html, body {
     border-radius: 25px;
     background: white; 
 
-}
-
-
-p {
-    font-family: sans-serif;  
-    color: 
 }
 
 #name-header {
