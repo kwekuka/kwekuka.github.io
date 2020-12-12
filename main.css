@@ -33,5 +33,11 @@ p {
 }
 
 #name-header {
-    margin-bottom: 0px;
+    margin:0;
+    padding:0;
+}
+
+#name-sub-header {
+    margin:0;
+    padding:0;
 }
