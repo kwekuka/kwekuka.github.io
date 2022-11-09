@@ -6,20 +6,12 @@ layout: homepage
 
 I am a PhD Candidate at Brown University where I am advised by Seny Kamara, and research fellow at Arthur AI. Broadly, I research machine learning and automated decision making with the goal of ensuring that these techniques are both responsible and trustworthy. 
 
-Before this, I studied Computer Science and Mathematics from the University of Maryland - College Park, where I worked with John Dickerson, and graduated in 2015.   
+Before this, I studied Computer Science and Mathematics at the University of Maryland - College Park, where I worked with John Dickerson and graduated in 2015.   
 
 ## Research Interests
 
 Machine Learning, Algorithmic Fairness, Adversarial Learning, Optimal Transport
 
-<!--
-## News
-
-- **[June. 2022]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
--->
 
 ## Manuscripts
 
