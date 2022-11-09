@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a PhD Candidate at Brown University where I am advised by Seny Kamara. Broadly, I research machine learning and au- tomated decision making with the goal of ensuring that these techniques are both responsible and trustworthy. 
+I am a PhD Candidate at Brown University where I am advised by Seny Kamara. Broadly, I research machine learning and automated decision making with the goal of ensuring that these techniques are both responsible and trustworthy. 
 
 ## Research Interests
 
@@ -19,37 +19,34 @@ Machine Learning, Algorithmic Fairness, Adversarial Learning, Optimal Transport
 - **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
 -->
 
-## Publications
+## Manuscripts
 
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
+- **Achieving Downstream Fairness with Geometric Repair**
   <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  **Kweku Kwegyir-Aggrey**, Jessica Dai, A. Feder Cooper, Keegan Hines 
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
-  <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+  [[PDF](https://arxiv.org/abs/2203.07490)] 
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
+- **Everything is Relative: Understanding Fairness with Optimal Transport**
   <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
+  **Kweku Kwegyir-Aggrey**, Rebecca Santorella, Sarah M. Brown. 
   <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
-  <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
+  [[PDF](https://arxiv.org/abs/2102.10349)]
 
-- **Meta-Transfer Learning for Few-Shot Learning**
-  <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
-  <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
 
 ## Ongoing Projects 
 - **Measuring Fairness when Protected Groups are Unkown** 
-<br> with Naveen Durvasula and John Dickerson 
+<br> __with Naveen Durvasula and John Dickerson__ 
 <br> Accessing and characterizing the accuracy of fairness metrics, in the common scenario where protected attributes are difficult or impossible to obtain.    
   
+  
+  - **Interactive Proofs for Verifying Machine Learning Computations(( ))
+  <br> __with Seny Kamara__ 
+  <br> We are developing efficient protocols for verifying machine learning computations, when the prover (the party under audit) is adversarial or not fully trusted. 
+  
+  - **Revisiting Area Under the Curve (AUC) for Model Selection } **
+  <br> __with Suresh Venkatasubramanian, Marissa Gerchick Aaron Horowitz__ 
+  <br>  In this work we highlight issues with common practice of validing risk assessment models with the Area Under the Curve (AUC) metric.  
 <!--
   \item \textbf{Interactive Proofs for Verifying Machine Learning Computations} with Seny Kamara.  
             
@@ -60,7 +57,10 @@ Machine Learning, Algorithmic Fairness, Adversarial Learning, Optimal Transport
   Across many disciplines, AUC is often used as a measurement to help validate risk assessment models.  In this work we show that as a model validation metric, AUC can often obfuscate important aspects of model performance, therefore leading to the erroneous validation of models which may have disparate impact across protected groups. 
 \end{enumerate}
 -->
-## Services
+## Workshop Publications 
 
-- Conference Reviewers: NeurIPS 2020, CVPR 2020.
-- Journal Reviewers: T-PAMI, IJCV.
+- **Model Selection's Disparate Impact in Real-World Deep Learning Applications**
+  <br>
+  Jessica Zosa Forde, A. Feder Cooper, **Kweku Kwegyir-Aggrey**,  Christopher De Sa, Michael Littman 
+  <br> Science of Deep Learning Workshop (ICLR '21)  
+  <br> [[PDF](https://arxiv.org/abs/2104.00606)]
