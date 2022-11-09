@@ -4,7 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am a PhD Candidate at Brown University where I am advised by Seny Kamara. Broadly, I research machine learning and automated decision making with the goal of ensuring that these techniques are both responsible and trustworthy. 
+I am a PhD Candidate at Brown University where I am advised by Seny Kamara, and research fellow at Arthur AI. Broadly, I research machine learning and automated decision making with the goal of ensuring that these techniques are both responsible and trustworthy. 
+
+Before this, I studied Computer Science and Mathematics from the University of Maryland - College Park, where I worked with John Dickerson, and graduated in 2015.   
 
 ## Research Interests
 
