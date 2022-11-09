@@ -32,7 +32,7 @@ Machine Learning, Algorithmic Fairness, Adversarial Learning, Optimal Transport
 
 ## Ongoing Projects 
 - **Measuring Fairness when Protected Groups are Unkown** 
-<br> _with Naveen Durvasula and John Dickerson__
+<br> *with Naveen Durvasula and John Dickerson*
 <br> Accessing and characterizing the accuracy of fairness metrics, in the common scenario where protected attributes are difficult or impossible to obtain.    
   
   
@@ -41,7 +41,7 @@ Machine Learning, Algorithmic Fairness, Adversarial Learning, Optimal Transport
 <br> We are developing efficient protocols for verifying machine learning computations, when the prover (the party under audit) is adversarial or not fully trusted. 
   
 - **Revisiting Area Under the Curve (AUC) for Model Selection**
-<br> *with Suresh Venkatasubramanian, Marissa Gerchick Aaron Horowitz* 
+<br> *with Suresh Venkatasubramanian, Marissa Gerchick, and Aaron Horowitz* 
 <br>  In this work we highlight issues with common practice of validing risk assessment models with the Area Under the Curve (AUC) metric.  
 
 ## Workshop Publications 
