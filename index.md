@@ -10,14 +10,25 @@ Before this, I studied Computer Science and Mathematics at the University of Mar
 
 ## Research Interests
 
-Machine Learning, Algorithmic Fairness, Adversarial Learning, Optimal Transport
+Machine Learning, Optimal Transport
 
+## Conference Publications
+- **The Misuse of AUC: What High Impact Risk Assessment Gets Wrong**
+  <br>
+  **Kweku Kwegyir-Aggrey**, Marissa Gerchick, Malika Mohan, Aaron Horowitz, Suresh Venkatasubramanian [[arxiv](https://arxiv.org/pdf/2305.18159.pdf)].
+
+
+## Workshop Publications 
+
+- **Model Selection's Disparate Impact in Real-World Deep Learning Applications**
+  <br>
+  Jessica Zosa Forde, A. Feder Cooper, **Kweku Kwegyir-Aggrey**,  Christopher De Sa, Michael Littman. _Science of Deep Learning Workshop (ICLR '21)_  [[PDF](https://arxiv.org/abs/2104.00606)].
+
+  - **Geometric Repair for Fair Classification at Any Decision Threshold**
+  <br> 
+  **Kweku Kwegyir-Aggrey**, Jessica Dai, A. Feder Cooper, Keegan Hines. _The Workshop on Artificial Intelligence for Social Good (AAAI '23)_ [[PDF](https://arxiv.org/pdf/2203.07490.pdf)].
 
 ## Manuscripts
-
-- **Achieving Downstream Fairness with Geometric Repair**
-  <br>
-  **Kweku Kwegyir-Aggrey**, Jessica Dai, A. Feder Cooper, Keegan Hines [[PDF](https://arxiv.org/abs/2203.07490)].
 
 - **Everything is Relative: Understanding Fairness with Optimal Transport**
   <br>
@@ -25,21 +36,10 @@ Machine Learning, Algorithmic Fairness, Adversarial Learning, Optimal Transport
 
 
 ## Ongoing Projects 
+
 - **Measuring Fairness when Protected Groups are Unkown** 
 <br> *with Naveen Durvasula and John Dickerson*
 <br> Accessing and characterizing the accuracy of fairness metrics, in the common scenario where protected attributes are difficult or impossible to obtain.    
   
   
-- **Interactive Proofs for Verifying Machine Learning Computations** 
-<br> *with Seny Kamara* 
-<br> We are developing efficient protocols for verifying machine learning computations, when the prover (the party under audit) is adversarial or not fully trusted. 
-  
-- **Revisiting Area Under the Curve (AUC) for Model Selection**
-<br> *with Suresh Venkatasubramanian, Marissa Gerchick, and Aaron Horowitz* 
-<br>  In this work we highlight issues with common practice of validing risk assessment models with the Area Under the Curve (AUC) metric.  
 
-## Workshop Publications 
-
-- **Model Selection's Disparate Impact in Real-World Deep Learning Applications**
-  <br>
-  Jessica Zosa Forde, A. Feder Cooper, **Kweku Kwegyir-Aggrey**,  Christopher De Sa, Michael Littman. _Science of Deep Learning Workshop (ICLR '21)_  [[PDF](https://arxiv.org/abs/2104.00606)].
