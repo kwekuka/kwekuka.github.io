@@ -15,7 +15,7 @@ Machine Learning, Optimal Transport
 ## Conference Publications
 - **The Misuse of AUC: What High Impact Risk Assessment Gets Wrong**
   <br>
-  **Kweku Kwegyir-Aggrey**, Marissa Gerchick, Malika Mohan, Aaron Horowitz, Suresh Venkatasubramanian [[arxiv](https://arxiv.org/pdf/2305.18159.pdf)].
+  **Kweku Kwegyir-Aggrey**, Marissa Gerchick, Malika Mohan, Aaron Horowitz, Suresh Venkatasubramanian. _Proceedings of ACM Conference on Fairness, Accountability, and Transparency (FAccT '23)_ [[arxiv](https://arxiv.org/pdf/2305.18159.pdf)].
 
 
 ## Workshop Publications 
@@ -24,7 +24,7 @@ Machine Learning, Optimal Transport
   <br>
   Jessica Zosa Forde, A. Feder Cooper, **Kweku Kwegyir-Aggrey**,  Christopher De Sa, Michael Littman. _Science of Deep Learning Workshop (ICLR '21)_  [[PDF](https://arxiv.org/abs/2104.00606)].
 
-  - **Geometric Repair for Fair Classification at Any Decision Threshold**
+- **Geometric Repair for Fair Classification at Any Decision Threshold**
   <br> 
   **Kweku Kwegyir-Aggrey**, Jessica Dai, A. Feder Cooper, Keegan Hines. _The Workshop on Artificial Intelligence for Social Good (AAAI '23)_ [[PDF](https://arxiv.org/pdf/2203.07490.pdf)].
 
