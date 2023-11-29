@@ -4,9 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am a PhD Candidate at Brown University where I am advised by Seny Kamara, and research fellow at Arthur AI. Broadly, I research machine learning and automated decision making with the goal of ensuring that these techniques are both responsible and trustworthy. 
+I am a PhD Candidate at Brown University advised by [Seny Kamara](https://cs.brown.edu/~seny/) and [Suresh Venkatasubramanian](https://vivo.brown.edu/display/suresh), and an incoming intern at [IBM Research](https://research.ibm.com/).  I've also held positions as a research intern at [Adobe](https://research.adobe.com/) and [Arthur AI](https://www.arthur.ai/). Before graduate school, I studied Computer Science and Mathematics at the University of Maryland - College Park, where I worked with [John Dickerson](https://jpdickerson.com/).   
 
-Before this, I studied Computer Science and Mathematics at the University of Maryland - College Park, where I worked with John Dickerson and graduated in 2019.   
+My research investigates foundational questions about uncertainty pertaining to responsible machine learning.  Most often, I design and analyze algorithms that provably identify and mitigate issues surrounding data-driven decisions. Specifically, I use statistical techniques to examine the various sources of uncertainty which can obscure the responsible deployment of automated tools in real-world contexts.  The high level goal of my research is to produce new ideas that can provide insight into existing and emerging challenges at the intersection of society and computation.  
 
 ## Research Interests
 
