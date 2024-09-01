@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a PhD Candidate at Brown University advised by [Seny Kamara](https://cs.brown.edu/~seny/) and [Suresh Venkatasubramanian](https://vivo.brown.edu/display/suresh), and an incoming intern at [IBM Research](https://research.ibm.com/).  I've also held positions as a research intern at [Adobe](https://research.adobe.com/) and [Arthur AI](https://www.arthur.ai/). Before graduate school, I studied Computer Science and Mathematics at the University of Maryland - College Park, where I worked with [John Dickerson](https://jpdickerson.com/).   
+I am a PhD Candidate at Brown University advised by [Seny Kamara](https://cs.brown.edu/~seny/) and [Suresh Venkatasubramanian](https://vivo.brown.edu/display/suresh).  I've also held positions as a research intern at [IBM Research](https://research.ibm.com/), [Adobe](https://research.adobe.com/), and [Arthur AI](https://www.arthur.ai/). Before graduate school, I studied Computer Science and Mathematics at the University of Maryland - College Park, where I worked with [John Dickerson](https://jpdickerson.com/).   
 
 My research investigates foundational questions about uncertainty pertaining to responsible machine learning.  Most often, I design and analyze algorithms that provably identify and mitigate issues surrounding data-driven decisions. Specifically, I use statistical techniques to examine the various sources of uncertainty which can obscure the responsible deployment of automated tools in real-world contexts.  The high level goal of my research is to produce new ideas that can provide insight into existing and emerging challenges at the intersection of society and computation.  
 
@@ -13,13 +13,13 @@ My research investigates foundational questions about uncertainty pertaining to 
 Machine Learning, Optimal Transport
 
 ## Conference Publications
-- **The Misuse of AUC: What High Impact Risk Assessment Gets Wrong**
-  <br>
-  **Kweku Kwegyir-Aggrey**, Marissa Gerchick, Malika Mohan, Aaron Horowitz, Suresh Venkatasubramanian. _Proceedings of ACM Conference on Fairness, Accountability, and Transparency (FAccT '23)_ [[arxiv](https://arxiv.org/pdf/2305.18159.pdf)].
-
 - **Observing Context Improves Disparity Estimation when Race is Unobserved**
   <br>
   **Kweku Kwegyir-Aggrey**, Naveen Durvasula, Jennifer Wang, Suresh Venkatasubramanian. _Proceedings of AAAI Conference on AI, Ethics, and Society (AIES '24)_ [[preprint](https://drive.google.com/file/d/14PQNfgcqmgeYx9E9q_hvWxkKMxNuoX3_/view?usp=sharing)].
+
+- **The Misuse of AUC: What High Impact Risk Assessment Gets Wrong**
+  <br>
+  **Kweku Kwegyir-Aggrey**, Marissa Gerchick, Malika Mohan, Aaron Horowitz, Suresh Venkatasubramanian. _Proceedings of ACM Conference on Fairness, Accountability, and Transparency (FAccT '23)_ [[arxiv](https://arxiv.org/pdf/2305.18159.pdf)].
 
 ## Workshop Publications 
 
