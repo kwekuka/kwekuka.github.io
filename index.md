@@ -17,6 +17,9 @@ Machine Learning, Optimal Transport
   <br>
   **Kweku Kwegyir-Aggrey**, Marissa Gerchick, Malika Mohan, Aaron Horowitz, Suresh Venkatasubramanian. _Proceedings of ACM Conference on Fairness, Accountability, and Transparency (FAccT '23)_ [[arxiv](https://arxiv.org/pdf/2305.18159.pdf)].
 
+- **Observing Context Improves Disparity Estimation when Race is Unobserved**
+  <br>
+  **Kweku Kwegyir-Aggrey**, Naveen Durvasula, Jennifer Wang, Suresh Venkatasubramanian. _Proceedings of AAAI Conference on AI, Ethics, and Society (AIES '24)_ [[preprint](https://drive.google.com/file/d/14PQNfgcqmgeYx9E9q_hvWxkKMxNuoX3_/view?usp=sharing)].
 
 ## Workshop Publications 
 
@@ -34,12 +37,7 @@ Machine Learning, Optimal Transport
   <br>
   **Kweku Kwegyir-Aggrey**, Rebecca Santorella, Sarah M. Brown [[PDF](https://arxiv.org/abs/2102.10349)].
 
-
-## Ongoing Projects 
-
-- **Measuring Fairness when Protected Groups are Unkown** 
-<br> *with Naveen Durvasula and John Dickerson*
-<br> Accessing and characterizing the accuracy of fairness metrics, in the common scenario where protected attributes are difficult or impossible to obtain.    
+   
   
   
 
