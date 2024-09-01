@@ -15,7 +15,7 @@ Machine Learning, Optimal Transport
 ## Conference Publications
 - **Observing Context Improves Disparity Estimation when Race is Unobserved**
   <br>
-  **Kweku Kwegyir-Aggrey**, Naveen Durvasula, Jennifer Wang, Suresh Venkatasubramanian. _Proceedings of AAAI Conference on AI, Ethics, and Society (AIES '24)_ [[preprint](https://drive.google.com/file/d/14PQNfgcqmgeYx9E9q_hvWxkKMxNuoX3_/view?usp=sharing)].
+  **Kweku Kwegyir-Aggrey**, Naveen Durvasula, Jennifer Wang, Suresh Venkatasubramanian. _Proceedings of AAAI Conference on AI, Ethics, and Society (AIES '24)_ [[PDF](https://drive.google.com/file/d/14PQNfgcqmgeYx9E9q_hvWxkKMxNuoX3_/view?usp=sharing)].
 
 - **The Misuse of AUC: What High Impact Risk Assessment Gets Wrong**
   <br>
