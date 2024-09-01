@@ -19,7 +19,7 @@ Machine Learning, Optimal Transport
 
 - **The Misuse of AUC: What High Impact Risk Assessment Gets Wrong**
   <br>
-  **Kweku Kwegyir-Aggrey**, Marissa Gerchick, Malika Mohan, Aaron Horowitz, Suresh Venkatasubramanian. _Proceedings of ACM Conference on Fairness, Accountability, and Transparency (FAccT '23)_ [[arxiv](https://arxiv.org/pdf/2305.18159.pdf)].
+  **Kweku Kwegyir-Aggrey**, Marissa Gerchick, Malika Mohan, Aaron Horowitz, Suresh Venkatasubramanian. _Proceedings of ACM Conference on Fairness, Accountability, and Transparency (FAccT '23)_ [[PDF](https://arxiv.org/pdf/2305.18159.pdf)].
 
 ## Workshop Publications 
 
